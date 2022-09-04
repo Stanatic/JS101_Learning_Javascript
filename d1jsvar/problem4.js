@@ -1,0 +1,14 @@
+var name = "🄽🄰🄼🄴 - 🆂🅰🅽🅺🅴🆃 🆂🆄🅼🅰🅽";
+console.log(name);
+var School = "🅢🅒🅗🅞🅞🅛 - 🅓.🅐.🅥 🅟🅤🅑🅛🅘🅒 🅢🅒🅗🅞🅞🅛";
+console.log(School);
+var grade = "Ⓖⓡⓐⓓⓔ - ①②ⓣⓗ Ⓑ";
+console.log(grade);
+var rollno = "R̲o̲l̲l̲ n̲o̲.̲ -̲ 6̲2̲8̲4̲";
+console.log(rollno);
+var DSA = "DSA - 90/100";
+console.log(DSA);
+var JS = "JS - 82/100";
+console.log(JS);
+var FSD = "FSD - 93/100";
+console.log(FSD);
